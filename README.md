@@ -1,2 +1,4 @@
-# protoloop
-Tunneling connections over multiple transports
+protoloop
+=========
+
+Tunneling connections over multiple transports.
